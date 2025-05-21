@@ -22,13 +22,19 @@
   </div>
 
 <div style="display: inline_block">
- <h2> Skills 💻 </h2>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png">
-  <img align="center" alt="Azure" height="30" width="40" src="https://www.northware.mx/wp-content/uploads/2022/09/northware-microsoft-azure-logo.png">
-</div>
+ <h2> Skill Stack 💻 </h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,aws,azure,bash,discord,github,grafana,vscode,py,powershell,gmail,git,">
+</p>
+  
+<p align="center">
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff">
+<img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white">
+<img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white">
+<img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff">
 
-<div style="display: inline_block">
+ 
  <h2> Formação Acadêmica 🎓 </h2>
  
  📌 Cursando Tecnico em Redes de computadores - Senai "Paulo Antonio Skaf" (Previsão de conclusão em dez/2025)
