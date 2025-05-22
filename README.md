@@ -41,7 +41,7 @@
 </div>
 
 <div style="display: inline_block">
-  <h2> Badges 🏅</h2>
+  <h2> Certificações 🏅</h2>
   <a href="https://www.credly.com/badges/6003f13c-132a-408f-a8a4-b75c8f790aeb/public_url">
   <img width="20%" height="20%"  src="https://images.credly.com/size/340x340/images/119182cf-ca68-495a-a415-bff62dfdcc7e/image.png"/>
     
