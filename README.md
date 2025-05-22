@@ -58,4 +58,4 @@
   <img width="18%" height="20%"  src="https://images.credly.com/size/340x340/images/6e3eb1aa-7ed9-40f5-b16e-bab6bc566be4/BadgeEmblem_QuantumEnigmas.png"/>
 
 ## Contatos ✉️
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabriciofirmani/)
+  [![Linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/fabriciofirmani/)
