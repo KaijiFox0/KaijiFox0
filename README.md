@@ -17,9 +17,11 @@
 ##
 <div align="center">
   <a href="https://github.com/KaijiFox0">
-  <img height="175em" src="http://github-readme-streak-stats.herokuapp.com/?user=KaijiFox0&amp;theme=transparent">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaijiFox0&layout=compact&langs_count=16&theme=transparent"/>
-  </div>
+    <img height="175em" src="http://github-readme-streak-stats.herokuapp.com/?user=KaijiFox0&theme=transparent" />
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaijiFox0&layout=compact&langs_count=10&theme=transparent&hide_progress=false&cache_seconds=60" />
+  </a>
+</div>
+
 
 <div style="display: inline_block">
  <h2> Skill Stack 💻 </h2>
